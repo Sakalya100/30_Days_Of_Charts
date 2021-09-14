@@ -1,0 +1,6 @@
+Sno,state_name,active,positive,cured,death,new_active,new_positive,new_cured,new_death,state_code
+2,Andaman and Nicobar Islands,79,4805,4665,61,84,4818,4673,61,35
+1,Andhra Pradesh,5078,875025,862895,7052,4966,875531,863508,7057,28
+3,Arunachal Pradesh,269,16509,16185,55,252,16206,16206,55,12
+4,Assam,3527,214584,210057,1000,3481,210174,210174,1002,18
+5,Bihar,5501,241776,234958,1317,5375,235528,235528,1321,10
