@@ -6,3 +6,5 @@ Adding a big change to test the PR Merge analysis part
 
 
 One more change added and fixed issues
+
+- Added another feature
