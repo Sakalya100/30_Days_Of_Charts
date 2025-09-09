@@ -12,4 +12,4 @@ One more change added and fixed issues
 - Feature 3
 - Feature 4 - fixed an bug and added calculator functionality
 - Feature 5
-- Feature 6
+- Feature 6 - fixed a major bug
