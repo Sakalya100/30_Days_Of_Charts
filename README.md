@@ -14,4 +14,4 @@ One more change added and fixed issues
 - Feature 5
 - Feature 6 - fixed a major bug
 - Feature 7
-- Feature 8 - fixed a major bug
+- Feature 8 - fixed a minor bug
