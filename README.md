@@ -9,3 +9,4 @@ One more change added and fixed issues
 
 - Added another feature
 - Added feature 2
+- Feature 3
