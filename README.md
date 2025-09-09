@@ -11,3 +11,4 @@ One more change added and fixed issues
 - Added feature 2
 - Feature 3
 - Feature 4 - fixed an bug and added calculator functionality
+- Feature 5
