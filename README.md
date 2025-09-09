@@ -10,4 +10,4 @@ One more change added and fixed issues
 - Added another feature
 - Added feature 2
 - Feature 3
-- Feature 4 - fixed an bug
+- Feature 4 - fixed an bug and added calculator functionality
