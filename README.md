@@ -15,3 +15,4 @@ One more change added and fixed issues
 - Feature 6 - fixed a major bug
 - Feature 7
 - Feature 8 - Readme changes done
+- Feature 9 - added mobile chip
